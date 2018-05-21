@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "76C9F6FB-8F72-4C51-9B4F-85A7915588C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 200,
+    "width": 152.9850746268657,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0DA570AC-F1AA-4990-BDC0-6DF588B31C87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC6EB892-77DA-4AE0-9455-0C39FEDE4713"
+    }
+  ],
+  "name": "align_icon_homelife",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "1A4CC1B3-704A-4E31-9EF8-A314DB8A2E99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6977AF1E-60EE-4840-95F8-B5610499E1E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D98D5A00-3F95-4432-9EF9-90A6E0110C23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E33E47AE-EF44-4850-854E-C375BF04A21F"
+    }
+  ],
+  "name": "Related / Dr Laundry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5B342535-D1B3-46E7-82CB-A6804FEA3AD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FA041A5-8860-4FE8-95F5-41945DCAEC46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C9C47C4-7032-4833-B25E-03D9B289DBDE",
+    "height": 200,
+    "width": 1350,
+    "x": 0,
+    "y": 107
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "marquee/desktop",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AEF6AF57-290F-4ACC-9508-9B5911E3AC60_stringValue",
+      "value": "Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "75DCEEEE-D0BB-4D79-8FF3-7568D55CB5B3_stringValue",
+      "value": "Sample Hero"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DBB11C1-BF70-4928-92B5-DB471658E34C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4B88B459-045A-4796-8EEF-FF4670FC2B63",
+  "verticalSpacing": 0
+}

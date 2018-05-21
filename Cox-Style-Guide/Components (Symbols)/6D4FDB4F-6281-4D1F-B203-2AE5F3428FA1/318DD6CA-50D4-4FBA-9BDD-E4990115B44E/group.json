@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "318DD6CA-50D4-4FBA-9BDD-E4990115B44E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 21,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C314C3BC-7378-4CA4-A53E-46BC3C23D385"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD674247-7B38-4E9F-A8A1-A3F104CD3E14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC292DCE-986C-4DD6-9D71-F15B414B09E1"
+    }
+  ],
+  "name": "align_icon_tv_contourapp",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

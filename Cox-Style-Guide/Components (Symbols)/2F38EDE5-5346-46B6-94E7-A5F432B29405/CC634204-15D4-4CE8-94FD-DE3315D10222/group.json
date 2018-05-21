@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "CC634204-15D4-4CE8-94FD-DE3315D10222",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 37,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7481C2DA-3F2C-4593-B509-45F1EE6CD2C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B7CC6CB-3832-4949-B677-03A5949BACED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4CA8DCD-65B6-452D-8F81-2616865236D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "777AEB2B-50A7-4BAE-A578-4A98EDDA6D88"
+    }
+  ],
+  "name": "Nav / Household",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
